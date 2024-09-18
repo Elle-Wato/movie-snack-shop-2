@@ -1,0 +1,283 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "The Giant Gila Monster",
+      "runtime": "108",
+      "capacity": 30,
+      "showtime": "04:00PM",
+      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Manos: The Hands Of Fate",
+      "runtime": "118",
+      "capacity": 50,
+      "showtime": "06:45PM",
+      "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Time Chasers",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "09:30PM",
+      "description": "An inventor comes up with a time machine, but must prevent its abuse at the hands of an evil C.E.O.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/23342/p23342_v_v8_ab.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Touch Of Satan",
+      "runtime": "101",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "description": "A young man meets a farm girl who is actually a witch.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/43468/p43468_v_v8_aa.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Santa Claus Conquers The Martians",
+      "runtime": "96",
+      "capacity": 50,
+      "showtime": "03:30PM",
+      "description": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/4232/p4232_v_v8_aa.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Track Of The Moon Beast",
+      "runtime": "112",
+      "capacity": 30,
+      "showtime": "10:30PM",
+      "description": "A young man is transformed into a hideous 'moon beast' due to a meteor fragment lodged in his body.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/39804/p39804_v_v8_ab.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The Skydivers",
+      "runtime": "94",
+      "capacity": 30,
+      "showtime": "07:30PM",
+      "description": "A woman seeks revenge on her former lover, who owns a skydiving business.",
+      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/40518/p40518_v_v8_aa.jpg"
+    }
+  ],
+  "snacks": [
+    {
+      "id": 1,
+      "name": "Popcorn",
+      "price": 150,
+      "description": "Buttery and crunchy popcorn.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h09/ha8/26675993772062/70208_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 2,
+      "name": "Coca-Cola",
+      "price": 100,
+      "description": "Chilled Coca-Cola can.",
+      "category": "Drinks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h7e/h11/17013604843550/24191_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 3,
+      "name": "Orange Juice",
+      "price": 150,
+      "description": "Freshly squeezed orange juice.",
+      "category": "Drinks",
+      "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/222093/1720800004/222093_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 4,
+      "name": "Lemonade",
+      "price": 120,
+      "description": "Cool and refreshing lemonade.",
+      "category": "Drinks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hec/h64/17289955967006/133711_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 5,
+      "name": "Iced Tea",
+      "price": 130,
+      "description": "Sweetened iced tea with lemon flavor.",
+      "category": "Drinks",
+      "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/225712/1720800004/225712_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 6,
+      "name": "Water",
+      "price": 50,
+      "description": "Bottled mineral water.",
+      "category": "Drinks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h67/h45/12676192108574/104557_Main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 7,
+      "name": "Digestive Biscuits",
+      "price": 80,
+      "description": "Classic whole wheat digestive biscuits.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hb5/h3b/26950684639262/157820_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 8,
+      "name": "Oreo",
+      "price": 100,
+      "description": "Chocolate sandwich cookies with cream filling.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/pim-content/KEN/media/product/30626/1718895604/30626_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 9,
+      "name": "Marie Biscuits",
+      "price": 60,
+      "description": "Light and crisp Marie biscuits, perfect for tea.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/he6/h60/16813496991774/8223_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Chip Cookies",
+      "price": 140,
+      "description": "Crunchy cookies with chocolate chips.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h53/h01/17384218853406/114167_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 11,
+      "name": "Snickers",
+      "price": 150,
+      "description": "A chocolate bar with nougat, caramel, and peanuts.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h10/h71/12456650244126/37146_Main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 12,
+      "name": "KitKat",
+      "price": 100,
+      "description": "Crispy wafer fingers covered in chocolate.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hc1/h9f/17384513634334/83750_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 13,
+      "name": "Bounty",
+      "price": 130,
+      "description": "Coconut-filled candy bar covered in chocolate.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hb4/h7d/16872080834590/37151_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 14,
+      "name": "Twix",
+      "price": 120,
+      "description": "Crunchy biscuit topped with caramel, coated in chocolate.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hba/h03/12456651358238/37153_Main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 15,
+      "name": "Chocolate Bar",
+      "price": 120,
+      "description": "Delicious milk chocolate bar.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hf0/h30/16930274344990/23682_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 16,
+      "name": "Pretzels",
+      "price": 100,
+      "description": "Crunchy and salty pretzels.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hc6/h60/50560418021406/203236_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 17,
+      "name": "Almonds",
+      "price": 150,
+      "description": "Roasted and salted almonds.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h86/h73/17556247773214/103397_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 18,
+      "name": "Cashews",
+      "price": 180,
+      "description": "Crunchy roasted cashews.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/hbd/hc1/26402227912734/23145_main.jpg?im=Resize=1700?im=Resize=400"
+    },
+    {
+      "id": 19,
+      "name": "Peanuts",
+      "price": 120,
+      "description": "Salty roasted peanuts.",
+      "category": "Snacks",
+      "image": "https://cdn.mafrservices.com/sys-master-root/h05/h47/12441292111902/8722_Main.jpg?im=Resize=1700?im=Resize=400"
+    }
+  ],
+  "orders": [
+    {
+      "id": "c522",
+      "customer": "Elle",
+      "items": [
+        {
+          "name": "Chocolate Chip Cookies",
+          "quantity": 1
+        },
+        {
+          "name": "Snickers",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 290
+    },
+    {
+      "id": "24d3",
+      "customer": "Elle",
+      "items": [
+        {
+          "name": "Popcorn",
+          "quantity": 1
+        },
+        {
+          "name": "Coca-Cola",
+          "quantity": 1
+        },
+        {
+          "name": "Orange Juice",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": null
+    },
+    {
+      "id": "7a55",
+      "customer": "Wato",
+      "items": [
+        {
+          "name": "Snickers",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 150
+    },
+    {
+      "customer": "karani",
+      "items": [
+        {
+          "name": "Digestive Biscuits",
+          "quantity": 1
+        },
+        {
+          "name": "Oreo",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 180,
+      "id": "HqgbHHH"
+    }
+  ]
+}
