@@ -1,6 +1,6 @@
 // src/services/api-client.js
 
-const BASE_URL = `${import.meta.env.REACT_APP_API_URL}`; // Replace with your API base URL
+const BASE_URL = `${process.env.REACT_APP_API_URL}`; // Replace with your API base URL
 
 // Helper function to make HTTP requests
 const request = async (endpoint, options = {}) => {
